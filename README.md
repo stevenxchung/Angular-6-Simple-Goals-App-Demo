@@ -2,6 +2,10 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.1.
 
+This is a simple web page that shows how data can be managed in Angular 6.
+
+**You can view the live demo [here](https://stevenxchung.github.io/Angular-6-Simple-Goals-App-Demo/)
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
