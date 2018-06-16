@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 This is a simple web page that shows how data can be managed in Angular 6.
 
-**You can view the live demo [here](https://stevenxchung.github.io/Angular-6-Simple-Goals-App-Demo/)
+**You can view the live demo [here](https://stevenxchung.github.io/Angular-6-Simple-Goals-App-Demo/)**
 
 ## Development server
 
